@@ -1,11 +1,4 @@
-# CodeAlpha Internship – Task 3: Sentiment Analysis
-
-> **Internship:** CodeAlpha Data Analytics  
-> **Task:** Task 3 – Sentiment Analysis  
-> **Author:** *[Your Name]*  
-> **Tools:** Python · pandas · NLTK VADER · matplotlib
-
----
+Sentiment Analysis on Amazon Product Reviews
 
 ## 📌 Project Overview
 
